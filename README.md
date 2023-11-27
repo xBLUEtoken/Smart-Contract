@@ -1,2 +1,2 @@
 # Smart-Contract
-Ember Lumen smart contract code
+xBLUE smart contract code
